@@ -9,7 +9,7 @@ I'm a cybersecurity professional with a focus on **Identity and Access Managemen
 - **Identity & Access Management**: Azure AD, RBAC, MFA, Privileged Identity Management (PIM)
 - **Cybersecurity**: Network security, Incident response, Threat analysis
 - **Project Management**: Agile, Scrum methodologies, Technical documentation
-Privileged Access Management: CyberArk Administration, PIM, Just-in-Time Access (JIT)---
+- **Privileged Access Management**: CyberArk Administration, PIM, Just-in-Time Access (JIT)---
 
 ## 🛠️ **Notable Projects**
 ### 1. **Azure IAM Labs**  
