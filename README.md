@@ -8,5 +8,5 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com//osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com//post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com//ticket-lifecycle)<h2>🤳Connect with me:</h2><!--
-**bobbyb320/bobbyb320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - [osTicket: Ticket Lifecycle Examples](https://github.com//ticket-lifecycle)<h2>🤳Connect with me:</h2>
+  - www.linkedin.com/in/bobby-bullock-a12553206
