@@ -1,12 +1,16 @@
-### Hi there im Bobby IT/ Cyber Sec Professional 👋
+# Hi there, I'm Bobby 👋
 
-- <b>Microsoft Azure AD</b>
-  - IAM labs & Projects [
-](https://github.com/bobbyb320/IAM-labs1/blob/main/README.md)  - [Configuring On-premises Active Directory within Azure VMs](https://github.com//configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//azure-network-protocols)
+I'm an IT/Cybersecurity Professional specializing in Identity and Access Management (IAM). I have hands-on experience with Microsoft Azure AD and have completed various projects in this domain.
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com//osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com//post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com//ticket-lifecycle)<h2>🤳Connect with me:</h2>
-  - www.linkedin.com/in/bobby-bullock-a12553206
+## 🛠️ Skills
+- Azure Active Directory
+- Network Security
+- Help Desk Systems (osTicket)
+- Project Management
+
+## 🚀 Projects
+- **IAM Labs & Projects**: A series of labs focusing on configuring on-premises Active Directory within Azure VMs and managing Network Security Groups (NSGs).
+- **osTicket Implementation**: Step-by-step installation and configuration of the osTicket help desk system, including ticket lifecycle management.
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/bobby-bullock-a12553206)
