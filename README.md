@@ -1,34 +1,46 @@
 # 👋 Hi, I'm Bobby Bullock  
-**Cybersecurity & IAM Specialist | Azure AD Enthusiast | Project Manager**  
-
-I'm a cybersecurity professional with a focus on **Identity and Access Management (IAM)**, Azure AD configurations, and secure user lifecycle management. I enjoy building labs to simulate enterprise environments and automating secure workflows.  
+**Cybersecurity & IAM Specialist | Azure AD Expert | CyberArk Admin | Certified Professional**
 
 ---
 
 ## 🚀 **Key Skills**
-- **Identity & Access Management**: Azure AD, RBAC, MFA, Privileged Identity Management (PIM)
-- **Cybersecurity**: Network security, Incident response, Threat analysis
-- **Project Management**: Agile, Scrum methodologies, Technical documentation
-- **Privileged Access Management**: CyberArk Administration, PIM, Just-in-Time Access (JIT)---
+- **IAM & Cloud Security**: Azure AD, CyberArk PAS, Microsoft Entra ID, SC-300 Certified  
+- **Security Standards**: ISO 27001 Compliance, NIST Framework, CIS Controls  
+- **Certifications**:  
+   - Microsoft SC-300: Identity and Access Administrator  
+   - CyberArk Privileged Access Security (PAS) Specialist  
+   - CompTIA Security+  
+- **Tools**: PowerShell, Azure CLI, CyberArk Vault, osTicket
+
+---
 
 ## 🛠️ **Notable Projects**
-### 1. **Azure IAM Labs**  
-- *Description*: End-to-end labs for setting up secure IAM in Azure, including RBAC, MFA, and PIM.  
-- *Technologies*: Azure Active Directory, PowerShell, Azure CLI.  
-- *Link*: [IAM-Labs-1](https://github.com/bobbyb320/IAM-labs1)
+### 1. **Azure IAM Labs**
+- **Description**: Comprehensive labs showcasing Azure AD configurations, RBAC, MFA enforcement, and PIM.
+- **Technologies**: Azure Active Directory, PowerShell, SC-300 practices.  
+- **Repository**: [IAM-Labs1](https://github.com/bobbyb320/IAM-labs1)
 
-### 2. **osTicket Helpdesk Implementation**  
-- *Description*: Step-by-step installation and configuration of osTicket for IT service management.  
-- *Technologies*: Linux, Apache, MySQL, PHP (LAMP stack).  
-- *Link*: [osTicket-Implementation](https://github.com/bobbyb320/osTicket)
+### 2. **CyberArk PAS Setup**
+- **Description**: Hands-on setup of CyberArk PAS, including Vault configuration, RBAC, and privileged access workflows.
+- **Repository**: Coming soon!
+
+### 3. **osTicket Helpdesk Implementation**
+- **Description**: A project focused on setting up and managing osTicket for IT helpdesk automation.  
+- **Repository**: [osTicket-Setup](https://github.com/bobbyb320/osTicket)
 
 ---
 
 ## 📊 **GitHub Stats**
 ![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyb320&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyb320&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/bobby-bullock-a12553206)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-grey)](https://github.com/bobbyb320)
+
+---
+
+🎯 **Goal**: Implement enterprise-grade IAM and security solutions for better protection and compliance.
+
