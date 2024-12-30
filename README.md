@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bobby Bullock  
-**Cybersecurity & IAM Specialist | Azure AD Expert | CyberArk Admin | Certified Professional**
+**Cybersecurity & IAM Specialist | Azure AD Expert | CyberArk PAM | Certified Professional**
 
 ---
 
